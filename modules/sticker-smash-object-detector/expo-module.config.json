@@ -1,0 +1,7 @@
+{
+  "platforms": ["android"],
+  "android": {
+    "package": "expo.modules.stickersmashobjectdetector",
+    "modules": ["ObjectDetectorModule"]
+  }
+}
